@@ -1,0 +1,3 @@
+# NLP with Marvel Transcripts
+
+I found these transcripts for Marvel movies online and I figured I'd practice some of my NLP skills. The main thing I wanted to do was see which movies were most similar to each other by their transcripts. In addition to the MCU (Marvel Cinematic Universe) movies, this dataset also includes Spider-man movies, LEGO Marvel movies, X-Men Movies, Blade movies, Deadpool Movies, and the Twilight movies.
